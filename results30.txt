@@ -1,0 +1,60 @@
+Results when commuter interval is set to 30:
+
+4 counters:
+  Results (averaged over 200 runs) for 1 first class counters and 3 coach counters:
+  	Profit over 500 hours: $15594049
+  	Average check-in wait time: 13.14 minutes
+  	Average number of international passengers that missed their flights (per flight): 0.003910
+  	Average post-security-screening wait time for commuters: 14.96 minutes
+  	Percentage of ticket revenue going to agent pay: 0.50
+    Average agent idle time per agent: 47.93 hours
+
+  Results (averaged over 200 runs) for 2 first class counters and 2 coach counters:
+  	Profit over 500 hours: $15511149
+  	Average check-in wait time: 1028.39 minutes
+  	Average number of international passengers that missed their flights (per flight): 0.623528
+  	Average post-security-screening wait time for commuters: 13.98 minutes
+  	Percentage of ticket revenue going to agent pay: 0.50
+    Average agent idle time per agent: 53.03 hours
+
+5 counters:
+  Results (averaged over 200 runs) for 1 first class counters and 4 coach counters:
+  	Profit over 500 hours: $15578354
+  	Average check-in wait time: 6.49 minutes
+  	Average number of international passengers that missed their flights (per flight): 0.000120
+  	Average post-security-screening wait time for commuters: 15.05 minutes
+  	Percentage of ticket revenue going to agent pay: 0.57
+    Average agent idle time per agent: 44.51 hours
+
+  Results (averaged over 200 runs) for 2 first class counters and 3 coach counters:
+  	Profit over 500 hours: $15583088
+  	Average check-in wait time: 12.38 minutes
+  	Average number of international passengers that missed their flights (per flight): 0.003951
+  	Average post-security-screening wait time for commuters: 14.96 minutes
+  	Percentage of ticket revenue going to agent pay: 0.57
+    Average agent idle time per agent: 44.50 hours
+
+6 counters:
+  Results (averaged over 200 runs) for 1 first class counters and 5 coach counters:
+  	Profit over 500 hours: $15574182
+  	Average check-in wait time: 3.99 minutes
+  	Average number of international passengers that missed their flights (per flight): 0.000119
+  	Average post-security-screening wait time for commuters: 15.06 minutes
+  	Percentage of ticket revenue going to agent pay: 0.64
+    Average agent idle time per agent: 41.35 hours
+
+  Results (averaged over 200 runs) for 2 first class counters and 4 coach counters:
+  	Profit over 500 hours: $155828479
+  	Average check-in wait time: 5.75 minutes
+  	Average number of international passengers that missed their flights (per flight): 0.000002
+  	Average post-security-screening wait time for commuters: 15.03 minutes
+  	Percentage of ticket revenue going to agent pay: 0.64
+    Average agent idle time per agent: 41.34 hours
+
+  Results (averaged over 200 runs) for 3 first class counters and 3 coach counters:
+  	Profit over 500 hours: $15576058
+  	Average check-in wait time: 12.25 minutes
+  	Average number of international passengers that missed their flights (per flight): 0.003952
+  	Average post-security-screening wait time for commuters: 14.97 minutes
+  	Percentage of ticket revenue going to agent pay: 0.64
+    Average agent idle time per agent: 41.35 hours
